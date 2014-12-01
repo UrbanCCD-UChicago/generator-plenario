@@ -38,6 +38,7 @@ var PlenarioGenerator = yeoman.generators.Base.extend({
 
       this.src.copy('_package.json', 'package.json');
       this.src.copy('_bower.json', 'bower.json');
+      this.src.copy('_index.html', 'app/index.html');
     },
 
     projectfiles: function () {
