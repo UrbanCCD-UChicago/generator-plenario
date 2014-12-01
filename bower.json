@@ -1,0 +1,23 @@
+{
+  "name": "generator-plenario",
+  "version": "0.0.0",
+  "homepage": "https://github.com/UrbanCCD-UChicago/frontend-plenario-generator",
+  "authors": [
+    "hunterowens <owens.hunter@gmail.com>"
+  ],
+  "description": "A Generator for Plenario Frontend",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "leaflet": "~0.7.3",
+    "backbone": "~1.1.2"
+  }
+}
