@@ -1,4 +1,4 @@
-# generator-plenario [![Build Status](https://secure.travis-ci.org/hunterowens/generator-plenario.png?branch=master)](https://travis-ci.org/hunterowens/generator-plenario)
+# generator-plenario [![Build Status](https://secure.travis-ci.org/UrbanCCD-UChicago/generator-plenario.png?branch=master)](https://travis-ci.org/hunterowens/generator-plenario)
 
 > [Yeoman](http://yeoman.io) generator
 
